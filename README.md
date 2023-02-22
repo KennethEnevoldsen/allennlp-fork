@@ -1,3 +1,5 @@
+**NOTE**: This is a fork of the allennlp library with a relaxed spacy requirement for >3.4 to >3.6. 
+
 <div align="center">
     <br>
     <img src="https://raw.githubusercontent.com/allenai/allennlp/main/docs/img/allennlp-logo-dark.png" width="400"/>
